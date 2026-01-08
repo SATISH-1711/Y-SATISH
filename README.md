@@ -5,13 +5,13 @@
 
 ## 🛠️ Technical Skills
 - **Programming:** Python, C
---**Software Development:**Data Structures and Algorithms, OOPS, Software Development Life Cycle
+- **Software Development:** Data Structures and Algorithms, OOPS, Software Development Life Cycle
 - **Data Analysis:** Pandas, NumPy  
 - **Machine Learning:** Scikit-learn, Model Evaluation  
 - **Visualization:** Matplotlib
 --**Frameworks:** Django
---**Frontend Technologies:**HTMl,CSS, Java Script
---**Database:**SQl
+--**Frontend Technologies:** HTMl,CSS, Java Script
+--**Database:** SQl
 --**Tools:** Jupyter Notebook, GitHub, VS Code, PyCharm
 
 ---
