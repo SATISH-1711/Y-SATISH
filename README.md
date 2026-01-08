@@ -9,10 +9,10 @@
 - **Data Analysis:** Pandas, NumPy  
 - **Machine Learning:** Scikit-learn, Model Evaluation  
 - **Visualization:** Matplotlib
---**Frameworks:** Django
---**Frontend Technologies:** HTMl,CSS, Java Script
---**Database:** SQl
---**Tools:** Jupyter Notebook, GitHub, VS Code, PyCharm
+- **Frameworks:** Django
+- **Frontend Technologies:** HTMl,CSS, Java Script
+- **Database:** SQl
+- **Tools:** Jupyter Notebook, GitHub, VS Code, PyCharm
 
 ---
 
